@@ -24,5 +24,6 @@ Arduino Pin  9 --- Resistor 220 ohms --- Second right LED lead
 Arduino Pin 10 --- Resistor 220 ohms --- Right LED lead
 
 Wiring image reference: 
+https://github.com/kingston-hackSpace/RGB_LED/blob/main/RGB_LED_bb.jpg 
 
 
