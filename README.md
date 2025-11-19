@@ -19,8 +19,11 @@ Hardware
 Wiring
 ---
 Arduino Pin  6 --- Resistor 220 ohms --- Left LED lead
+
 Arduino 5V     --- Second left LED lead (longer lead)
+
 Arduino Pin  9 --- Resistor 220 ohms --- Second right LED lead
+
 Arduino Pin 10 --- Resistor 220 ohms --- Right LED lead
 
 Wiring image reference: 
