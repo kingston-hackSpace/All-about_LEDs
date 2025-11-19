@@ -34,13 +34,14 @@ Code
 ---
 ***Important Note***
 
-This LED is common-anode, so the logic is inverted:
+This LED is common-anode, meaning:
 
-  **analogWrite(pin, 0) → colour fully ON**
+  - analogWrite(pin, 0) → colour fully ON
 
-  **analogWrite(pin, 255) → colour OFF**
+  - analogWrite(pin, 255) → colour OFF
 
-So a colour value of (R=255, G=0, B=255) means:
+*Example* : 
+(R=255, G=0, B=255) means:
 
 - Red off
 
