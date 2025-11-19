@@ -1,6 +1,6 @@
 # RGB_LED (anode type)
 
-Desription
+Description
 ---
 This tutorial covers how to use an RGB LED **anode type**.
 
