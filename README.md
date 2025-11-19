@@ -40,13 +40,7 @@ This LED is common-anode, meaning:
 
   - analogWrite(pin, 255) → colour OFF
 
-*Example* : 
-(R=255, G=0, B=255) means:
+Download code here: 
 
-- Red off
-
-- Green on
-
-- Blue off
 
 
