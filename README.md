@@ -4,9 +4,7 @@ Description
 ---
 This tutorial covers how to use an **RGB LED anode type**.
 
-Read more about RGB LEDs here: 
-
-https://www.circuitbread.com/tutorials/how-rgb-leds-work-and-how-to-control-color  
+Read more about RGB LEDs [here](https://www.circuitbread.com/tutorials/how-rgb-leds-work-and-how-to-control-color) 
 
 ---
 Hardware
@@ -26,8 +24,8 @@ Wiring
 | **Right pin**          | Blue cathode     | **Pin 10 → 220 Ω resistor → LED pin** |
 
 
-Wiring image reference: 
-https://github.com/kingston-hackSpace/RGB_LED/blob/main/RGB_LED_bb.jpg 
+Wiring image reference [here](https://github.com/kingston-hackSpace/RGB_LED/blob/main/RGB_LED_bb.jpg)
+
 
 ---
 Code
@@ -40,7 +38,7 @@ This LED is common-anode, meaning:
 
   - analogWrite(pin, 255) → colour OFF
 
-Download code here: 
+Download code [here](https://github.com/kingston-hackSpace/RGB_LED/blob/main/RGB_LED.ino)
 
-https://github.com/kingston-hackSpace/RGB_LED/blob/main/RGB_LED.ino
+
 
