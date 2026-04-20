@@ -12,7 +12,7 @@
 
 [Non-Addressable LED Strips - Monochrome]
 
-[Non-Addressable LED Strips - RGBW]
+[Non-Addressable LED Strips - RGBW](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Non-Addressable_LED_Strip_RGBW.md)
 
 [Addressable LED Strips](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Addressable_LED_strips.md)
 
