@@ -3,14 +3,14 @@
 ----
 ## Single LEDs
 
-[Basic LED]
+[Basic LED] - Pending
 
 [RGB LEDs](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/RGB_LED.md)
 
 ----
 # LED Strips
 
-[Non-Addressable LED Strips - Monochrome]
+[Non-Addressable LED Strips - Monochrome] - Pending
 
 [Non-Addressable LED Strips - RGBW](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Non-Addressable_LED_Strip_RGBW.md)
 
@@ -19,6 +19,6 @@
 ----
 # LED Rings
 
-Pending
+Content pending
 
 
