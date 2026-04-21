@@ -70,7 +70,7 @@ However, the number of LEDs in your project directly affects **memory (RAM) usag
 
 If you search for tutorials online, you might run into examples that use the Adafruit_NeoPixel Library or the FastLED Library. Both are suitable to control addressable LEDs Propertly. 
 
-For begginners, we advice to explore programming your LED strip using the **[Adafruit_NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel).** 
+For begginners, we advice to explore programming your LED strip using the [Adafruit_NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel).
 
 -----
 ## Tutorials
