@@ -47,4 +47,6 @@ See [wiring reference here](https://github.com/kingston-hackSpace/All-about_LEDs
 
 - Install **Adafruit_NeoPixel Library**. See [instructions here](https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation)
 
+- Power your Arduino board ONLY AFTER you finished the wiring (if re-wiring, ALWAYS disconnect from power first)
+
 - Download [this code](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Basic_Addressable_Example.ino) and upload it into your Arduino Board. 
