@@ -33,7 +33,7 @@ See [this image](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/
 | Power Supply: Negative  (black) wire  (-)  | Arduino: GND     |
 | Power Supply: Positive (red) wire (+) | Strip: 5V (red) wire    |
 | Strip: Negative (black) wire     | Arduino: GND     |
-| Strip: DIN (green) wire (via resistor)     | Arduino: pin 13  |
+| Strip: DIN (green) wire (via resistor)     | Arduino: pin 6  |
 | Capacitor + lead      |  Negative  (black) wire  (-) |
 | Capacitor - lead      |  Positive (red) wire (+)|
 
@@ -41,3 +41,5 @@ See [wiring reference here]
 
 --- 
 ## CODE and INSTRUCTIONS
+
+- Download [this code](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Basic_Addressable_Example.ino) and upload it into your Arduino Board. 
