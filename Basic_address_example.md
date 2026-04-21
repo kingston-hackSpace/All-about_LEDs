@@ -9,7 +9,7 @@
 
 - Any addressable LED strip (lengh: 16 LEDs total)
 
-- 5V 1.5A Power Supply (correct current is crutial!)
+- 5V 2A Power Supply (correct current is crutial!)
 
 - 1000 µF capacitor (6.3V or higher). The capacitor buffers sudden changes in the current drawn by the strip.
 
