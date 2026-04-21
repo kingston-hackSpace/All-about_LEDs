@@ -65,14 +65,7 @@ However, the number of LEDs in your project directly affects **memory (RAM) usag
 
 - [Adafruit Feather RP2040 SCORPIO](https://www.adafruit.com/product/5650) 
 
------
-## Libraries  
 
-If you search for tutorials online, you might run into examples that use the Adafruit_NeoPixel Library or the FastLED Library. Both are suitable to control addressable LEDs Propertly. 
-
-For begginners, we advice to explore programming your LED strip using the [Adafruit_NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel).
-
-See here for [an explained use of the Adafruit Neopixel Library for Arduino](https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-use)
 
 -----
 ## Tutorials
@@ -84,6 +77,15 @@ Sparkfun examples: [Rainbow Cycle, Candy Chase, Snowflakes, Iceflakes](https://l
 Raspberry Pi : [Control an Addressable WS2812B RGB LED Strips with a Raspberry Pi](https://core-electronics.com.au/guides/fully-addressable-rgb-raspberry-pi/)
 
 Youtube tutorial : [BEGINNERS Guide to Individually Addressable RGB LED Programming with Arduino](https://www.youtube.com/watch?v=WS6FI_NyRzs)
+
+-----
+## Libraries  
+
+If you search for tutorials online, you might run into examples that use the Adafruit_NeoPixel Library or the FastLED Library. Both are suitable to control addressable LEDs Propertly. 
+
+For begginners, we advice to explore programming your LED strip using the [Adafruit_NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel).
+
+See here for [an explained use of the Adafruit Neopixel Library for Arduino](https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-use)
 
 
 ----
