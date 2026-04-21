@@ -16,7 +16,7 @@ void setup() {
 
 void loop() {
   // Call a function to display a rainbow effect
-  rainbowCycle(20); // Adjust the delay for speed
+  rainbowCycle(5); // Adjust the delay for speed
 }
 
 // Function to create a rainbow effect
