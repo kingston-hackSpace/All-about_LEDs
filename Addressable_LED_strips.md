@@ -72,6 +72,8 @@ If you search for tutorials online, you might run into examples that use the Ada
 
 For begginners, we advice to explore programming your LED strip using the [Adafruit_NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel).
 
+See here for [an explained use of the Adafruit Neopixel Library for Arduino](https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-use)
+
 -----
 ## Tutorials
 
