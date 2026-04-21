@@ -54,3 +54,5 @@ See [wiring reference here](https://github.com/kingston-hackSpace/All-about_LEDs
 - Experiment modifying the code to get colours and speed.
 
 - Download and upload [this code](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Basic_Addressable_Example2.ino) for more experimentation
+
+- Go back to [this page](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Addressable_LED_strips.md) to see more examples (at the end of the document)
