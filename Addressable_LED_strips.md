@@ -38,12 +38,8 @@ To animate an addressable LED strip, you need a microcontroller, such as an Ardu
 
 However, the number of LEDs in your project directly affects **memory (RAM) usage.** Each LED requires memory to store its color information, and as the strip becomes longer, this memory demand increases.
 
-For short LED strips (for example, 10–100 LEDs), an Arduino Uno or Nano is generally sufficient and widely used in prototyping and teaching contexts.
-As projects scale up—using hundreds of LEDs, multiple strips, or more complex animation logic—the limited RAM of entry‑level Arduino boards can become a constraint. In these cases, microcontrollers with greater memory capacity, such as the ESP32, are a more appropriate choice.
-Importantly, this limitation is not about processing speed, but about how much data the controller can store and manage reliably.
 
-
-# SHORT STRIPS: 10-60 LEDS
+**SHORT STRIPS: 10-60 LEDS**
 
 - Arduino UNO
 
@@ -51,21 +47,19 @@ Importantly, this limitation is not about processing speed, but about how much d
 
 - Arduino Mega
 
-# LARGE STRIPS
+**LARGE STRIPS**
 
-- ESP32-S3
+- [ESP32-S3](https://github.com/kingston-hackSpace/ESP32/edit/main/README.md)
 
-- ESP32 HUZZAH32
+- [ESP32-Feather-V2](https://github.com/kingston-hackSpace/ESP32/edit/main/README.md)
 
 - Arduino Nano ESP32
 
-- Teensy
+- [Teensy](https://github.com/kingston-hackSpace/Teensy_4-1)
 
-# MULTIPLE Addressable LED Strips in parallel
+**MULTIPLE Addressable LED Strips in parallel**
 
 - [Adafruit Feather RP2040 SCORPIO](https://www.adafruit.com/product/5650) 
-
-
 
 -----
 ## Tutorials
