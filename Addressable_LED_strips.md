@@ -31,6 +31,10 @@ See the guide below to learn how to safely calculate and choose the correct powe
 
 [Guide: How to power your addressable LED Strip] - pending
 
+[Powering Tips](https://learn.adafruit.com/adafruit-neopixel-uberguide/powering-neopixels)
+
+[Best Practices](https://learn.adafruit.com/adafruit-neopixel-uberguide/best-practices)
+
 -----
 ## Arduino? Or another microcontroller? ⚠️ 
 
@@ -64,9 +68,21 @@ However, the number of LEDs in your project directly affects **memory (RAM) usag
 -----
 ## Tutorials
 
-Sparkfun General Guide [here](https://learn.sparkfun.com/tutorials/addressable-led-strip-hookup-guide/all)
+Intro to Addressable LED strips: 
 
+Sparkfun examples: [Rainbow Cycle, Candy Chase, Snowflakes, Iceflakes](https://learn.sparkfun.com/tutorials/addressable-led-strip-hookup-guide/all)
+
+Raspberry Pi : [Control an Addressable WS2812B RGB LED Strips with a Raspberry Pi](https://core-electronics.com.au/guides/fully-addressable-rgb-raspberry-pi/)
+
+Youtube tutorial : [BEGINNERS Guide to Individually Addressable RGB LED Programming with Arduino](https://www.youtube.com/watch?v=WS6FI_NyRzs)
+////
 Different types [here](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels)
 
-Multiple Addressable LED strips with SPARTA
+
+
+
+----
+## Further Learning
+
+Read more about Addressable LED Strip **Types** [here](https://www.superlightingled.com/blog/ultimate-guide-to-choosing-the-right-addressable-led-strip/)
 
