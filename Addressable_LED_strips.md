@@ -6,7 +6,7 @@ It is not meant for large installations with hundreds of LED strips that require
 -----
 ## What is an Addressable LED Strip
 
-Addressable LED Strips are a type of LED stripc in which **each LED can be controlled individually**.
+Addressable LED Strips are a type of LED strip in which **each LED can be controlled individually**.
 
 This means you can make different colors, patterns, and animations along the same strip—at the same time.
 
