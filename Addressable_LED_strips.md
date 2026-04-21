@@ -70,7 +70,7 @@ However, the number of LEDs in your project directly affects **memory (RAM) usag
 -----
 ## Beginner's Tutorials
 
-**(START HERE)** Intro to Addressable LED strips: [Basic Addressable LED Strip Example (using NeopixelLib)](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Basic_address_example.md)
+Intro to Addressable LED strips: [Basic Addressable LED Strip Example (using NeopixelLib)](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Basic_address_example.md)
 
 -----
 ## More Tutorials
