@@ -1,7 +1,7 @@
 # All about LEDs
 
 ----
-## Single LEDs
+## SINGLE LEDs
 
 [Basic LED] - Pending
 
