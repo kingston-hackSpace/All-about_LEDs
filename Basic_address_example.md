@@ -49,4 +49,8 @@ See [wiring reference here](https://github.com/kingston-hackSpace/All-about_LEDs
 
 - Power your Arduino board ONLY AFTER you finished the wiring (if re-wiring, ALWAYS disconnect from power first)
 
-- Download [this code](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Basic_Addressable_Example.ino) and upload it into your Arduino Board. 
+- Download [this code](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Basic_Addressable_Example.ino) and upload it into your Arduino Board.
+
+- Experiment modifying the code to get colours and speed.
+
+- Download and upload [this code] for more experimentation
