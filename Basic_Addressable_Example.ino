@@ -1,48 +1,35 @@
 #include <Adafruit_NeoPixel.h>
 
-// Define the pin connected to the Neopixel data line
 #define PIN 6
-
-// Define the number of LEDs in the strip
 #define NUM_LEDS 16
 
-// Create a NeoPixel object
-Adafruit_NeoPixel strip = Adafruit_NeoPixel(NUM_LEDS, PIN, NEO_GRB + NEO_KHZ800);
+Adafruit_NeoPixel strip(NUM_LEDS, PIN, NEO_GRB + NEO_KHZ800);
+
+uint8_t offset = 0;  // controls animation (moving pattern)
 
 void setup() {
-  strip.begin(); // Initialize the Neopixel strip
-  strip.show();  // Turn off all LEDs initially
+  strip.begin();
+  strip.show();  // turn all LEDs off
 }
 
 void loop() {
-  // Call a function to display a rainbow effect
-  rainbowCycle(5); // Adjust the delay for speed
-}
+  for (int i = 0; i < NUM_LEDS; i++) {
 
-// Function to create a rainbow effect
-void rainbowCycle(uint8_t wait) {
-  uint16_t i, j;
+    int state = (i + offset) % 3;
 
-  for (j = 0; j < 256 * 5; j++) { // 5 cycles of all colors
-    for (i = 0; i < strip.numPixels(); i++) {
-      // Calculate color for each pixel
-      strip.setPixelColor(i, Wheel(((i * 256 / strip.numPixels()) + j) & 255));
+    if (state == 0) {
+      strip.setPixelColor(i, strip.Color(255, 0, 0));   // Red
     }
-    strip.show(); // Update the strip with new colors
-    delay(wait);  // Pause for the specified time
-  }
-}
+    else if (state == 1) {
+      strip.setPixelColor(i, strip.Color(0, 255, 0));   // Green
+    }
+    else {
+      strip.setPixelColor(i, strip.Color(0, 0, 255));   // Blue
+    }
 
-// Helper function to generate rainbow colors
-uint32_t Wheel(byte WheelPos) {
-  WheelPos = 255 - WheelPos;
-  if (WheelPos < 85) {
-    return strip.Color(255 - WheelPos * 3, 0, WheelPos * 3);
-  } else if (WheelPos < 170) {
-    WheelPos -= 85;
-    return strip.Color(0, WheelPos * 3, 255 - WheelPos * 3);
-  } else {
-    WheelPos -= 170;
-    return strip.Color(WheelPos * 3, 255 - WheelPos * 3, 0);
   }
+
+  strip.show();   // update LEDs
+  offset++;       // shift pattern
+  delay(100);     // animation speed
 }
