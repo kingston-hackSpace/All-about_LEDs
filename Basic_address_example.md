@@ -25,9 +25,9 @@ You will need a 5V 1.5A power supply (or higher current).
 ---
 ## WIRING
 
-IMPORTANT! Addressable LED strips have a directional order. 
+**IMPORTANT!** Addressable LED strips have a directional order. 
 
-WARNING! Capacitors have polarity (one lead is positive and the other negative). See [this image].
+**WARNING!** Capacitors have polarity (one lead is positive and the other negative). See [this image].
 
 See [this image](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Address_arrow.png) to wire properly. 
 
