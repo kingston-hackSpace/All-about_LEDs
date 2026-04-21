@@ -37,7 +37,7 @@ See [this image](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/
 | Capacitor + lead      |  Negative  (black) wire  (-) |
 | Capacitor - lead      |  Positive (red) wire (+)|
 
-See [wiring reference here]
+See [wiring reference here](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/address_wiring.png)
 
 --- 
 ## CODE and INSTRUCTIONS
