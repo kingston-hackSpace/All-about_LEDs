@@ -77,7 +77,7 @@ See here for [an explained use of the Adafruit Neopixel Library for Arduino](htt
 -----
 ## Tutorials
 
-Intro to Addressable LED strips: 
+(START HERE) Intro to Addressable LED strips: 
 
 Sparkfun examples: [Rainbow Cycle, Candy Chase, Snowflakes, Iceflakes](https://learn.sparkfun.com/tutorials/addressable-led-strip-hookup-guide/all)
 
