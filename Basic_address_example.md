@@ -11,6 +11,10 @@
 
 - 5V 1.5A Power Supply (correct current is crutial!)
 
+- 1000 µF capacitor (6.3V or higher). The capacitor buffers sudden changes in the current drawn by the strip.
+
+-  300 to 500 Ohm resistor 
+
 ---
 ## POWERING
 
@@ -22,14 +26,18 @@ You will need a 5V 1.5A power supply (or higher current).
 ## WIRING
 
 IMPORTANT! Addressable LED strips have a directional order. 
-See [this image] to wire properly. 
+See [this image](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Address_arrow.png) to wire properly. 
 
-
-| LED Strip | Arduino |
+| Connections | |
 |----------|---------|
-| 5V+      | 5V      |
-| GND      | GND     |
-| DIN      | Pin 13  |
+| Power Supply: Negative  (black) wire  (-)  | Arduino: GND     |
+| Power Supply: Positive (red) wire (+) | Strip: 5V (red) wire    |
+| Strip: Negative (black) wire     | Arduino: GND     |
+| Strip: DIN (green) wire (via resistor)     | Arduino: pin 13  |
+| Capacitor + lead      |  Negative  (black) wire  (-) |
+| Capacitor - lead      |  Positive (red) wire (+)|
+
+See [wiring reference here]
 
 --- 
 ## CODE and INSTRUCTIONS
