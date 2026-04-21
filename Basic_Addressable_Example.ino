@@ -6,6 +6,7 @@
 Adafruit_NeoPixel strip(NUM_LEDS, PIN, NEO_GRB + NEO_KHZ800);
 
 uint8_t offset = 0;  // controls animation (moving pattern)
+int speed = 100;
 
 void setup() {
   strip.begin();
@@ -31,5 +32,5 @@ void loop() {
 
   strip.show();   // update LEDs
   offset++;       // shift pattern
-  delay(100);     // animation speed
+  delay(speed);     // animation speed
 }
