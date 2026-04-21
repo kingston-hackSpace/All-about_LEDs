@@ -68,9 +68,12 @@ However, the number of LEDs in your project directly affects **memory (RAM) usag
 
 
 -----
-## Tutorials
+## Beginner's Tutorials
 
 **(START HERE)** Intro to Addressable LED strips: [Basic Addressable LED Strip Example (using NeopixelLib)](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Basic_address_example.md)
+
+-----
+## More Tutorials
 
 Sparkfun examples: [Rainbow Cycle, Candy Chase, Snowflakes, Iceflakes](https://learn.sparkfun.com/tutorials/addressable-led-strip-hookup-guide/all)
 
@@ -79,7 +82,7 @@ Raspberry Pi : [Control an Addressable WS2812B RGB LED Strips with a Raspberry P
 Youtube tutorial : [BEGINNERS Guide to Individually Addressable RGB LED Programming with Arduino](https://www.youtube.com/watch?v=WS6FI_NyRzs)
 
 -----
-## Libraries  
+## About Libraries  
 
 If you search for tutorials online, you might run into examples that use the Adafruit_NeoPixel Library or the FastLED Library. Both are suitable to control addressable LEDs Propertly. 
 
