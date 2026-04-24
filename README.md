@@ -3,7 +3,7 @@
 ----
 # SINGLE LEDs
 
-[Basic LED] - Pending
+[Basic LED](https://www.build-electronic-circuits.com/arduino-blink-led/)
 
 [RGB LEDs](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/RGB_LED.md)
 
