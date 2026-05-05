@@ -32,4 +32,4 @@ Content pending
 
 Powering your LEDs is fundamental. 
 
-Read more about power supplies and LED drivers [here]
+Read more about power supplies and LED drivers [here](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Powering_LEDs.md)
