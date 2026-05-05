@@ -1,11 +1,13 @@
 # All about LEDs
 
+A practical guide to LED types and how to power them safely
+
 ----
 # SINGLE LEDs
 
-[Basic LED](https://www.build-electronic-circuits.com/arduino-blink-led/)
+[Basic LED](https://www.build-electronic-circuits.com/arduino-blink-led/) - Basic 20mA LED units.
 
-[RGB LEDs](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/RGB_LED.md)
+[RGB LEDs](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/RGB_LED.md) - Basic 60mA RGB LED units. 
 
 ----
 # LED Strips
@@ -28,4 +30,6 @@ Content pending
 ----
 # Powering LEDs 
 
-Powering your LEDs is fundamental. Read more about powing your LEDs with power supplies and LED drivers [here]
+Powering your LEDs is fundamental. 
+
+Read more about power supplies and LED drivers [here]
