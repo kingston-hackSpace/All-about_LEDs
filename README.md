@@ -26,5 +26,6 @@ Content pending
 Content pending
 
 ----
-# LED Drivers
-Content pending
+# Powering LEDs 
+
+Powering your LEDs is fundamental. Read more about powing your LEDs with power supplies and LED drivers [here]
