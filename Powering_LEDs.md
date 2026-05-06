@@ -39,7 +39,7 @@ There are two main ways to power LEDs:
 
 The key difference is that LED drivers control current, while most general power supplies provide a fixed voltage.
 
-Choosing the correct option depends on the type of LED you are using. See which one to use below.
+Choosing the correct option depends on the type of LED you are using. See below.
 
 ---
 ### Power Supply
@@ -50,7 +50,7 @@ A power supply provides a fixed voltage and is commonly used for general electro
 
 - LED strips
 
-- Single LEDs
+- Single LEDs (using resistors)
 
 - LED rings
 
@@ -60,6 +60,8 @@ A power supply provides a fixed voltage and is commonly used for general electro
 
 - COB‑LED strips (NOT COB filaments)
 
+- Ask a technician if any doubts
+  
 **NOT SUITABLE FOR:**
 
 - COB bare chips
