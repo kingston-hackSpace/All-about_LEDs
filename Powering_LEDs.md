@@ -48,17 +48,17 @@ A power supply provides a fixed voltage and is commonly used for general electro
 
 **Suitable for:**
 
-- LED strips
-
 - Single LEDs (using resistors)
 
-- LED rings
+- [LED rings](https://www.adafruit.com/product/4433) / [Addressable LED rings](https://www.adafruit.com/product/1768) (up to 12V)
 
-- LED bulbs
+- LED bulbs / COB LED bulbs (up to 12V)
 
-- COB LED bulbs 
+- LED strips (up to 12V)
+  
+- [COB‑LED strips](https://thepihut.com/products/ultra-flexible-5v-natural-white-led-strip-320-leds-per-meter-1-meter-long-4000k-color) (NOT COB filaments!)
 
-- COB‑LED strips (NOT COB filaments)
+- Other suitable: [LED module](https://www.adafruit.com/product/1622), [mini COB strip](https://thepihut.com/products/5v-cob-led-strip-light-white), [LED ribbon](https://www.adafruit.com/product/6128), [LED Matrix](https://www.adafruit.com/product/2279)
 
 - Ask a technician if any doubts
   
@@ -66,12 +66,12 @@ A power supply provides a fixed voltage and is commonly used for general electro
 
 - COB bare chips
 
-- COB LED filaments
+- [COB LED filaments](https://www.adafruit.com/product/5504) / [Shaped COB filaments](https://www.adafruit.com/product/6093)
 
 At hackSpace, power supplies are often recommended for **prototyping and experimentation**, as they are widely available and easy to use **—as long as the LED type allows it.**
 
 ---
-### LED driver
+### LED drivers
 
 An LED driver is a power source specifically designed for LEDs. It controls the current supplied to the LED, which is crucial for certain LED types.
 
@@ -79,13 +79,13 @@ An LED driver is a power source specifically designed for LEDs. It controls the 
 
 - COB bare chips (on aluminium discs)
 
-- COB LED filaments
+- [COB LED filaments](https://www.adafruit.com/product/5504)
 
 These LED types have **no built‑in protection** and must be powered by a driver to prevent immediate damage or overheating.
 
-Read more about LED drivers [here](https://uk.rs-online.com/web/content/discovery/ideas-and-advice/led-drivers-guide?msockid=28f2a02050396a67149cb66554396858)
+**Read more** about LED drivers [here](https://uk.rs-online.com/web/content/discovery/ideas-and-advice/led-drivers-guide?msockid=28f2a02050396a67149cb66554396858)
 
-Buy LED drivers from: 
+**Buy** LED drivers (talk to a technician before purchasing): 
 
 - [CEF](https://www.cef.co.uk/catalogue/categories/lighting-luminaires/downlights/led-drivers?gclid=8b8d839aabc614d73999ea63545e8330&gclsrc=3p.ds&msclkid=8b8d839aabc614d73999ea63545e8330&utm_source=bing&utm_medium=cpc&utm_campaign=G%20Search%3A%20Lighting%20Luminaries-G8250795020&utm_term=lighting-luminaires&utm_content=G%20Search%3A%20Lighting%20Luminaries%20-%20DSA%20-%20Category%20Level)
 
