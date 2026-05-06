@@ -29,7 +29,7 @@ This depends on:
 - Number of LEDs in use
 
 ---
-### Power Supply or LED driver?
+### Which one should I use? Power Supply or LED driver?
 
 There are two main ways to power LEDs:
 
