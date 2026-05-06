@@ -83,6 +83,16 @@ An LED driver is a power source specifically designed for LEDs. It controls the 
 
 These LED types have **no built‑in protection** and must be powered by a driver to prevent immediate damage or overheating.
 
+Read more about LED drivers [here](https://uk.rs-online.com/web/content/discovery/ideas-and-advice/led-drivers-guide?msockid=28f2a02050396a67149cb66554396858)
+
+Buy LED drivers from: 
+
+- [CEF](https://www.cef.co.uk/catalogue/categories/lighting-luminaires/downlights/led-drivers?gclid=8b8d839aabc614d73999ea63545e8330&gclsrc=3p.ds&msclkid=8b8d839aabc614d73999ea63545e8330&utm_source=bing&utm_medium=cpc&utm_campaign=G%20Search%3A%20Lighting%20Luminaries-G8250795020&utm_term=lighting-luminaires&utm_content=G%20Search%3A%20Lighting%20Luminaries%20-%20DSA%20-%20Category%20Level)
+
+- [RS components](https://uk.rs-online.com/web/c/?searchTerm=led+drivers)
+
+- [Arrow electricals](https://www.arrowelectricals.co.uk/interior-lighting/accessories/led-drivers/)
+
 ---
 ### Key Takeaway
 
