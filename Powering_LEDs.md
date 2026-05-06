@@ -48,7 +48,7 @@ A power supply provides a fixed voltage and is commonly used for general electro
 
 **Suitable for:**
 
-- Single LEDs (using resistors)
+- [Single LEDs](https://thepihut.com/products/diffused-5mm-led-pack-5-leds-each-in-5-colors-25-pack) (using resistors)
 
 - [LED rings](https://www.adafruit.com/product/4433) / [Addressable LED rings](https://www.adafruit.com/product/1768) (up to 12V)
 
