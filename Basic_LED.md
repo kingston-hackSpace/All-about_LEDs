@@ -45,7 +45,7 @@ LEDs are current-driven devices, incorrect current (and voltage) can burn/damage
  
 
 ---
-**CASE 2: Calculating Power for multiple LEDs**
+**CASE 2: Powering multiple LEDs**
 
 LEDs can be wired in *series or parallel.* 
 
