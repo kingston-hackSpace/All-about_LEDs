@@ -32,20 +32,17 @@ This formula is key to calculate how to power your LEDs.
 - 3V coin cell (alkaline):  
 
   - You don't need a resistor. Coin cells have high internal resistance.
- 
-  - [reference : LED + 3V coin cell]
 
 - Two AA batteries (alkaline)
 
   - Use a 10ohms resistor
-    
-  - [reference : LED + AA battery]
 
 - 9V battery (alkaline)
 
   - Use a 330ohms or 390ohms resistor
- 
-  - [reference : LED + 9V battery]
+
+
+[Reference image: wiring a LED + resistor + battery](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/BasicLED_baterries_bb.jpg)
  
 
 ---
