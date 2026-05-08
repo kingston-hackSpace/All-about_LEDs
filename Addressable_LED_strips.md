@@ -23,7 +23,7 @@ Also called:
 
 Powering LED strips can be dangerous if done incorrectly.
 
-Using the wrong voltage (V) or insufficient wiring for the required current (A) can damage components, cause overheating, and create a fire hazard.
+Using the wrong voltage (V) or current (A) can damage components, cause overheating, and create a fire hazard.
 
 **Correct powering is crucial.**
 
