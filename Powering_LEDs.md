@@ -15,32 +15,18 @@ Using the wrong power source or connecting LEDs incorrectly can lead to:
 - Fire and serious electrical hazards
 
 ---
-### Calculating Power (3-12V only)
-
-Before selecting a power source, you must calculate how much power your LED project requires.
-This depends on:
-
-- The type of LED
-
-- Voltage
-
-- Current
-
-- Number of LEDs in use
-
----
 ### Which one should I use? Power Supply or LED driver?
 
 There are two main ways to power LEDs:
 
-- Power supplies
+- Power supplies / constant-voltage LED drivers
 
-- LED drivers
+- Constant-current LED drivers
 
 Choosing the correct option depends on the type of LED you are using. See below.
 
 ---
-### Power Supply
+### Power Supply or constant-voltage LED drivers
 
 A power supply provides a fixed voltage and is commonly used for general electronic equipment.
 
@@ -71,9 +57,9 @@ A power supply provides a fixed voltage and is commonly used for general electro
 At hackSpace, power supplies are often recommended for **prototyping and experimentation**, as they are widely available and easy to use **—as long as the LED type allows it.**
 
 ---
-### LED drivers
+### Constant-current LED drivers
 
-An LED driver is a constant‑current power source specifically designed for bare or high‑power LEDs.
+Constant-current LED drivers regulate current rather than voltage, protecting bare or high-power LEDs that lack built-in current limiting.
 
 **Suitable for:**
 
