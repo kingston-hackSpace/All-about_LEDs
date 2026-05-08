@@ -13,21 +13,13 @@ Learn more about [LEDs] here
 
 LEDs are current-driven devices, incorrect current (and voltage) can burn/damage the LED.
 
-**One singular LEDs draw ~20mA**. Your circuit should provide as much as current the LED requires, but prevent current spikes using resistors and other components. 
+**A single LED typically draws ~20 mA**. Your circuit should allow the LED to draw the current it requires, while limiting that current using resistors or other components.
 
 *Note: If using the appropriate resistors, there is no need for an LED driver –only about this type of LEDs* 
 
 ---
-### Ohms Law
 
-Voltage = Current x Resistance
-V = I x R
-
-This formula is key to calculate how to power your LEDs.
-
----
-
-**CASE 1: Using batteries**
+**CASE 1: Powering 1-LED**
 
 - 3V coin cell (alkaline):  
 
@@ -35,22 +27,71 @@ This formula is key to calculate how to power your LEDs.
 
 - Two AA batteries (alkaline)
 
-  - Use a 10ohms resistor
+  - Use a 100Ω resistor
 
 - 9V battery (alkaline)
 
-  - Use a 330ohms or 390ohms resistor
+  - Use a 330Ω or 390Ω resistor
 
+- 5V Power Supply
+
+  - Use a 220Ω resistor
+ 
+- 12V Power Supply
+
+  - Use a 470Ω to 560Ω resistor
 
 [Reference image: wiring a LED + resistor + battery](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/BasicLED_baterries_bb.jpg)
  
 
 ---
-**CASE 2: Using a 5V power supply + resistors**
+**CASE 2: Calculating Power for multiple LEDs**
 
----
-**CASE 3: Using a 5V power supply + resistors**
+LEDs can be wired in *series or parallel.* 
 
----
-**CASE 4: LEDs in parallel**
 
+When LEDs are connected *in parallel*:
+
+- Voltage stays the same
+
+- Total current increases
+
+- Each LED must have its own resistor
+
+
+When LEDs are connected *in series*:
+
+- Voltages add
+
+- Current stays the same
+
+- The supply voltage must be higher than the total LED voltage
+
+
+////////////////////////////////////
+
+**Ohms Law**
+
+Resistance (ohms) = Voltage (Volts) / LED Current (Amps)
+
+R = V / I
+
+Note: V = (Supply Voltage − LED Forward Voltage)
+
+////////////////////////////////////
+
+Example: LEDs in Parallel
+
+Power Source : 5V Power Supply
+
+Number of LEDs : 3 LEDs in parallel (voltage remains the same, add current)
+
+Ohms Law : 
+  
+R = (V supply − V LED) / LED Current
+
+R = (5V − 3V) / 0.02A
+
+R = 100Ω
+
+**Use a 5V PS + *three* 120ohms (margin up) resistor (one resistor per LED)**
