@@ -52,9 +52,9 @@ A power supply provides a fixed voltage and is commonly used for general electro
 
 - [LED rings](https://www.adafruit.com/product/4433) / [Addressable LED rings](https://www.adafruit.com/product/1768) (up to 12V)
 
-- LED bulbs / COB LED bulbs (up to 12V)
+- [LED bulbs](https://www.amazon.co.uk/BROLSKUN-Edison-Voltage-Application-Camper/dp/B0DFTGSRDC/ref=sr_1_7?adgrpid=1188572968806367&dib=eyJ2IjoiMSJ9.GPHAHryMre7zLQoRCxrRC5vzi0ZNcvN_NwxyNNzHAYrZ17wGV5QfFhrnP2zzeNEtD2NNC0xkk1wm3X_ePBv7XTQHCHs4PIOXnyrdsBf2wBEaTtSWU80ETGzPQMDqqY6cZfFHrRfxsX8bR36CRRcnyZXzgOXv1y_6P03SzDI1HC4rswKA8S-l1xH4Pv0yUHILPq6VrZCH_hJ6zPhnLmcpeEMuB3d4bwDsD-4BqNQ0mttw3en0gfOTHo5gtQF-raQxYPolTqiNUyi45SeqfkCI1fvswHwOA1nzPpmKfjwpCs4.ZOy8fkWlBDPvJ7OvkUWe8OBGCkT1xPeHz0vCmhbi0vk&dib_tag=se&hvadid=74286029144116&hvbmt=be&hvdev=c&hvlocphy=69225&hvnetw=o&hvqmt=e&hvtargid=kwd-74285951646389%3Aloc-188&hydadcr=20043_2253151&keywords=12v%2Bbulbs%2Be27&mcid=f9a535311b8c3810934e4e198ffa48d6&msclkid=ec92a27a83a6180a6b80cb872664ca17&qid=1778230730&sr=8-7&th=1) (up to 12V)
 
-- LED strips (up to 12V)
+- [LED strips](https://www.weloveleds.co.uk/collections/led-strip/products/superslim-led-strip-ip20-12v-3-5mm-cut-every-100mm-120leds-p-m-8w-p-m-p-metre-reell) (up to 12V)
   
 - [COB‑LED strips](https://thepihut.com/products/ultra-flexible-5v-natural-white-led-strip-320-leds-per-meter-1-meter-long-4000k-color) (NOT COB filaments!)
 
@@ -64,7 +64,9 @@ A power supply provides a fixed voltage and is commonly used for general electro
   
 **NOT SUITABLE FOR:**
 
-- COB bare chips
+- [1W bare LED](https://www.adafruit.com/product/518)
+  
+- [COB bare chips](https://www.harfington.com/en-gb/products/p-1256748?currency=GBP&country=GB&variant=46054583173369&utm_source=Bing&utm_medium=cpc&utm_campaign=Bing%20Shopping&stkn=f8e35277684b&utm_source=Bing&utm_medium=cpc&utm_campaign=Bing-shopping-uk-all-250715&utm_term=Bing-shopping-uk-all-250715&utm_content=ywh&msclkid=67cddeca2cfc1b19fe7bb737875af131) (on aluminium discs)
 
 - [COB LED filaments](https://www.adafruit.com/product/5504) / [Shaped COB filaments](https://www.adafruit.com/product/6093)
 
@@ -77,7 +79,9 @@ An LED driver is a power source specifically designed for LEDs. It controls the 
 
 **Mandatory for:**
 
-- COB bare chips (on aluminium discs)
+- [1W bare LED](https://www.adafruit.com/product/518)
+
+- [COB bare chips](https://www.harfington.com/en-gb/products/p-1256748?currency=GBP&country=GB&variant=46054583173369&utm_source=Bing&utm_medium=cpc&utm_campaign=Bing%20Shopping&stkn=f8e35277684b&utm_source=Bing&utm_medium=cpc&utm_campaign=Bing-shopping-uk-all-250715&utm_term=Bing-shopping-uk-all-250715&utm_content=ywh&msclkid=67cddeca2cfc1b19fe7bb737875af131) (on aluminium discs)
 
 - [COB LED filaments](https://www.adafruit.com/product/5504)
 
