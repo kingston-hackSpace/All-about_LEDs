@@ -9,6 +9,10 @@ A practical guide to LED types and how to power them safely
 
 [RGB LEDs](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/RGB_LED.md) - Basic 60mA RGB LED units. 
 
+[1W LEDs on aluminium disk (star type)]
+
+[3W RGB LEDs on aluminium disk (star type)]
+
 ----
 # LED Strips
 
