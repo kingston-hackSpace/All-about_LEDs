@@ -37,8 +37,6 @@ There are two main ways to power LEDs:
 
 - LED drivers
 
-The key difference is that LED drivers control current, while most general power supplies provide a fixed voltage.
-
 Choosing the correct option depends on the type of LED you are using. See below.
 
 ---
@@ -75,7 +73,7 @@ At hackSpace, power supplies are often recommended for **prototyping and experim
 ---
 ### LED drivers
 
-An LED driver is a power source specifically designed for LEDs. It controls the current supplied to the LED, which is crucial for certain LED types.
+An LED driver is a constant‑current power source specifically designed for bare or high‑power LEDs.
 
 **Suitable for:**
 
