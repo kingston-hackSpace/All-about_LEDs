@@ -16,7 +16,7 @@ A practical guide to LED types and how to power them safely
 ----
 # LED Strips
 
-[Non-Addressable LED Strips - Monochrome] - Pending
+[Non-Addressable LED Strips - Monochrome](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Non-Addressable_LED_Strips-Monochrome.md)
 
 [Non-Addressable LED Strips - RGBW](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Non-Addressable_LED_Strip_RGBW.md)
 
