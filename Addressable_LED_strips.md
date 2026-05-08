@@ -29,7 +29,7 @@ Using the wrong voltage (V) or current (A) can damage components, cause overheat
 
 See the guide below to learn how to safely calculate and choose the correct power supply:
 
-[Guide: How to power your addressable LED Strip] - pending
+[Guide: How to power your addressable LED Strip](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Guide_How-to-power-your-addressable-LED-Strip.md)
 
 [Powering Tips](https://learn.adafruit.com/adafruit-neopixel-uberguide/powering-neopixels)
 
