@@ -41,7 +41,7 @@ LEDs are current-driven devices, incorrect current (and voltage) can burn/damage
 
   - Use a 470Ω to 560Ω resistor
 
-[Reference image: wiring a LED + resistor + battery](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/BasicLED_baterries_bb.jpg)
+[Reference image: wiring a LED + resistor + battery/PS](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/BasicLED_batteries_bb.jpg)
  
 
 ---
