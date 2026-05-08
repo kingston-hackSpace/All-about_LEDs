@@ -15,7 +15,7 @@ LEDs are current-driven devices, incorrect current (and voltage) can burn/damage
 
 **One singular LEDs draw ~20mA**. Your circuit should provide as much as current the LED requires, but prevent current spikes using resistors and other components. 
 
-*Note: If using the appropriate resistors, there is no needd of an LED driver*
+*Note: If using the appropriate resistors, there is no need for an LED driver*
 
 ---
 ### Ohms Law
