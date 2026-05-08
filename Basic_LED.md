@@ -43,9 +43,10 @@ This formula is key to calculate how to power your LEDs.
 
 - 9V battery (alkaline)
 
-  - Use a xohms resistor
+  - Use a 330ohms or 390ohms resistor
  
   - [reference : LED + 9V battery]
+ 
 
 ---
 **CASE 2: Using a 5V power supply + resistors**
