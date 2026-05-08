@@ -3,6 +3,8 @@
 ---
 ### Powering Non-Addressable LED Strips - Monochrome
 
-POWER with POWER SUPPLIES ONLY
+Power via:
 
-DONOT power LED strips with LED drivers unless specified by the product. 
+- Power supplies
+
+- Constant-voltage LED drivers
