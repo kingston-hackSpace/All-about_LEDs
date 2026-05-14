@@ -1,6 +1,10 @@
 # Basic LED (~20mA)
 
-Learn more about [LEDs] here
+Further learning: 
+
+[All about LEDs by Adafruit](https://learn.adafruit.com/all-about-leds)
+
+[All about LEDs by SparkFun](https://www.sparkfun.com/leds)
 
 ---
 ### Tutorials
