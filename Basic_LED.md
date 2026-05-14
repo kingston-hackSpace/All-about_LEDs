@@ -1,6 +1,6 @@
 # Basic LED (~20mA)
 
-The following tutorial covers *standard LED type ONLY* (reference image).
+The following tutorial covers *standard LED type ONLY* (reference image)(https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/StandardLED_referenceImage.png).
 
 Further learning: 
 
@@ -29,7 +29,7 @@ LEDs are current-driven devices, incorrect current (and voltage) can burn/damage
 
 - 3V coin cell (alkaline):  
 
-  - You don't need a resistor. Coin cells have high internal resistance. The LED positive lead should only touch battery positive side, while the negative lead should touch its negative side. See reference image here. 
+  - You don't need a resistor. Coin cells have high internal resistance. The LED positive lead should only touch battery positive side, while the negative lead should touch its negative side. See [reference image here](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/coinCell_LED.png). 
 
 - Two AA batteries (alkaline)
 
