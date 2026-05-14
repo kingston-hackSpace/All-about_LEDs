@@ -1,8 +1,9 @@
 # Basic LED (~20mA)
 
-The following tutorial covers *standard LED type ONLY* (reference image)(https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/StandardLED_referenceImage.png).
+The following tutorial covers ***standard LED type ONLY***. [See reference image](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/StandardLED_referenceImage.png)
 
-Further learning: 
+---
+### Further learning: 
 
 [All about LEDs by Adafruit](https://learn.adafruit.com/all-about-leds)
 
@@ -19,9 +20,13 @@ Further learning:
 
 LEDs are current-driven devices, incorrect current (and voltage) can burn/damage the LED.
 
-**A single LED typically draws ~20 mA**. Your circuit should allow the LED to draw the current it requires, while limiting that current using resistors or other components.
+**A single LED typically draws ~20 mA**. Your circuit must:
 
-*Note: If using the appropriate resistors, there is no need for an LED driver* 
+- allow current to flow
+
+- limit that current using a resistor
+
+*Note: If your are using the appropriate resistors, tyou don't need an LED driver* 
 
 ---
 
@@ -29,25 +34,29 @@ LEDs are current-driven devices, incorrect current (and voltage) can burn/damage
 
 - 3V coin cell (alkaline):  
 
-  - You don't need a resistor. Coin cells have high internal resistance. The LED positive lead should only touch battery positive side, while the negative lead should touch its negative side. See [reference image here](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/coinCell_LED.png). 
+  - You don't need a resistor. Coin cells have high internal resistance.
+  
+  - LED long leg (+) → battery positive
+  
+  - LED short leg (–) → battery negative. See [reference image here](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/coinCell_LED.png). 
 
 - Two AA batteries (alkaline)
 
-  - Use a 100Ω resistor
+  - Use a 47-100Ω resistor [Reference image](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/BasicLED_batteries_bb.jpg)
 
 - 9V battery (alkaline)
 
-  - Use a 330Ω or 390Ω resistor
+  - Use a 330Ω or 390Ω resistor [Reference image](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/BasicLED_batteries_bb.jpg)
 
 - 5V Power Supply
 
-  - Use a 220Ω resistor
+  - Use a 220Ω resistor [Reference image](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/BasicLED_batteries_bb.jpg)
  
 - 12V Power Supply
 
-  - Use a 470Ω to 560Ω resistor
+  - Use a 470Ω to 560Ω resistor [Reference image](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/BasicLED_batteries_bb.jpg)
 
-[Reference image: wiring a LED + resistor + battery/PS](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/BasicLED_batteries_bb.jpg)
+
  
 
 ---
