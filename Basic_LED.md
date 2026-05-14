@@ -1,5 +1,7 @@
 # Basic LED (~20mA)
 
+The following tutorial covers *standard LED type ONLY* (reference image).
+
 Further learning: 
 
 [All about LEDs by Adafruit](https://learn.adafruit.com/all-about-leds)
@@ -19,7 +21,7 @@ LEDs are current-driven devices, incorrect current (and voltage) can burn/damage
 
 **A single LED typically draws ~20 mA**. Your circuit should allow the LED to draw the current it requires, while limiting that current using resistors or other components.
 
-*Note: If using the appropriate resistors, there is no need for an LED driver –only about this type of LEDs* 
+*Note: If using the appropriate resistors, there is no need for an LED driver* 
 
 ---
 
@@ -27,7 +29,7 @@ LEDs are current-driven devices, incorrect current (and voltage) can burn/damage
 
 - 3V coin cell (alkaline):  
 
-  - You don't need a resistor. Coin cells have high internal resistance.
+  - You don't need a resistor. Coin cells have high internal resistance. The LED positive lead should only touch battery positive side, while the negative lead should touch its negative side. See reference image here. 
 
 - Two AA batteries (alkaline)
 
