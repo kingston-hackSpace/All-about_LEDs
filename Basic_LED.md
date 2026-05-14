@@ -42,19 +42,19 @@ LEDs are current-driven devices, incorrect current (and voltage) can burn/damage
 
 - Two AA batteries (alkaline)
 
-  - Use a 47-100Ω resistor [Reference image](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/BasicLED_batteries_bb.jpg)
+  - Use a 47-100Ω resistor. See [reference image](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/BasicLED_batteries_bb.jpg)
 
 - 9V battery (alkaline)
 
-  - Use a 330Ω or 390Ω resistor [Reference image](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/BasicLED_batteries_bb.jpg)
+  - Use a 330Ω or 390Ω resistor. See [reference image](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/BasicLED_batteries_bb.jpg)
 
 - 5V Power Supply
 
-  - Use a 220Ω resistor [Reference image](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/BasicLED_batteries_bb.jpg)
+  - Use a 220Ω resistor. See [reference image](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/BasicLED_batteries_bb.jpg)
  
 - 12V Power Supply
 
-  - Use a 470Ω to 560Ω resistor [Reference image](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/BasicLED_batteries_bb.jpg)
+  - Use a 470Ω to 560Ω resistor. See [reference image](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/BasicLED_batteries_bb.jpg)
 
 
  
