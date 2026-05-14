@@ -29,8 +29,7 @@ LEDs are current-driven devices, incorrect current (and voltage) can burn/damage
 *Note: If your are using the appropriate resistors, tyou don't need an LED driver* 
 
 ---
-
-**CASE 1: Powering 1-LED**
+### CASE 1: Powering 1-LED
 
 - 3V coin cell (alkaline):  
 
@@ -60,10 +59,23 @@ LEDs are current-driven devices, incorrect current (and voltage) can burn/damage
  
 
 ---
-**CASE 2: Powering multiple LEDs**
+### CASE 2: Powering multiple LEDs
 
 LEDs can be wired in *series or parallel.* 
 
+---
+**SERIES** (avoid)
+
+When LEDs are connected *in series*:
+
+- Voltages add
+
+- Current stays the same
+
+- The supply voltage must be higher than the total LED voltage
+  
+---
+**PARALLEL**
 
 When LEDs are connected *in parallel*:
 
@@ -74,28 +86,7 @@ When LEDs are connected *in parallel*:
 - Each LED must have its own resistor
 
 
-When LEDs are connected *in series*:
-
-- Voltages add
-
-- Current stays the same
-
-- The supply voltage must be higher than the total LED voltage
-
-
-////////////////////////////////////
-
-**Ohms Law**
-
-Resistance (ohms) = Voltage (Volts) / LED Current (Amps)
-
-R = V / I
-
-Note: V = (Supply Voltage − LED Forward Voltage)
-
-////////////////////////////////////
-
-Example: LEDs in Parallel
+**Example: Powering 3 LEDs in Parallel using a 5V power supply**
 
 Power Source : 5V Power Supply
 
@@ -109,4 +100,6 @@ R = (5V − 3V) / 0.02A
 
 R = 100Ω
 
-**Use a 5V PS + *three* 120ohms (margin up) resistor (one resistor per LED)**
+Conclusion:
+
+**We need to use *three* 100Ω or 120Ω resistors (one resistor per LED)**. This will protect our LEDs while using a 5V power supply
