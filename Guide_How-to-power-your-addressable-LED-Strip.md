@@ -25,5 +25,4 @@ This means you need a power supply that can provide at least 1000mA (1A) as a ba
 
 You should always add powering range to avoid problems. Use a **5V 1.5A** power supply (or higher current) for your Neopixel 5V LED strip of 16 LEDs. 
 
-------
-### 
+FOR LONGER STRIPS, ASK A TECHNICIAN. 
