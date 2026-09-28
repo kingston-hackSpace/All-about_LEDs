@@ -12,10 +12,24 @@ A non-addressable LED strip is an *analog-type* strip that has all the LEDs conn
 
 Powering LED strips can be dangerous if done incorrectly.
 
-Using the wrong voltage (V) or current (A) can damage components, cause overheating, and create a fire hazard.
+Using the wrong voltage(V) or current(A) can damage components, cause overheating, and create a **fire hazard**.
 
 **Correct powering is crucial.**
 
 See the guide below to learn how to safely calculate and choose the correct power supply:
 
 [Guide: How to power your addressable LED Strip]
+
+-----
+# TUTORIAL
+-----
+
+## HARDWARE
+
+- Arduino UNO
+
+- RGB LED strip
+
+- 12V 2A Power Supply (correct current is crutial!)
+
+
