@@ -39,6 +39,7 @@ See the guide below to learn how to safely calculate and choose the correct powe
 -----
 ## WIRING
 
+<img src="diagram_RGBW-non-addressable_bb.jpg" width=800>
 *Click on the image to expand diagram
 
 -----
