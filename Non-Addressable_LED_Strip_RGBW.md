@@ -24,16 +24,17 @@ See the guide below to learn how to safely calculate and choose the correct powe
 
 -----
 # TUTORIAL
------
 
+-----
 ## HARDWARE
 
 - Arduino UNO
 
 - RGBW LED strip (21 LEDs / 7 segments)
 
-- 12V 1A Power Supply (correct current is crutial!)
+- 12V 1A(or higher) Power Supply (correct current is crutial!)
 
-- MOSFET (x3)
+- N-channel MOSFETs such as the IRLZ44N (x3)
 
-
+-----
+## WIRING
