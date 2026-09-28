@@ -18,7 +18,7 @@ Using the wrong voltage(V) or current(A) can damage components, cause overheatin
 
 See the guide below to learn how to safely calculate and choose the correct power supply:
 
-[Guide: How to power your addressable LED Strip]
+[Guide: How to power your RGB non-addressable LED Strip]
 
 -----
 # TUTORIAL
