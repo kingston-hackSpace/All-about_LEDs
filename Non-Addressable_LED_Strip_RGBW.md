@@ -7,7 +7,7 @@ This guide is based on Adafruit's Tutorial [here](https://learn.adafruit.com/rgb
 
 A non-addressable LED strip is an *analog-type* strip that has all the LEDs connected in parallel; you can set the entire strip to any color you want, but you can't control the individual LED's colors.
 
-<img=400x400 src= >
+<img src="non_address_RGBW.jpg" width="600"> 
 
 ---
 ### Powering ⚠️
