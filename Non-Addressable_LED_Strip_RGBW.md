@@ -7,6 +7,8 @@ This guide is based on Adafruit's Tutorial [here](https://learn.adafruit.com/rgb
 
 A non-addressable LED strip is an *analog-type* strip that has all the LEDs connected in parallel; you can set the entire strip to any color you want, but you can't control the individual LED's colors.
 
+<img=400x400 src= >
+
 ---
 ### Powering ⚠️
 
@@ -18,7 +20,7 @@ Using the wrong voltage(V) or current(A) can damage components, cause overheatin
 
 See the guide below to learn how to safely calculate and choose the correct power supply:
 
-[Guide: How to power your RGB non-addressable LED Strip]
+[Guide: How to power your RGBW non-addressable LED Strip](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Guide_How-to-power-your-RGB-nonAddressable-LED-Strip.md)
 
 -----
 # TUTORIAL
@@ -28,8 +30,10 @@ See the guide below to learn how to safely calculate and choose the correct powe
 
 - Arduino UNO
 
-- RGB LED strip
+- RGBW LED strip (21 LEDs / 7 segments)
 
-- 12V 2A Power Supply (correct current is crutial!)
+- 12V 1A Power Supply (correct current is crutial!)
+
+- MOSFET (x3)
 
 
