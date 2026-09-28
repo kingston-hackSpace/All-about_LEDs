@@ -1,6 +1,6 @@
 # Guide: How to power your addressable LED Strip
 
-Besides programming your RGB non-addressable LED strip with a micro-controller, you will need to power the strip with an independent Power Supply.
+Besides programming your strip with a micro-controller, you will need to power the strip with an independent Power Supply.
 
 Micro-controllers such as Arduino cannot provide enough current to power devices such as motors or LED strips. For this reason, a **Power Supply is mandatory!**
 
