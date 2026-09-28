@@ -1,6 +1,4 @@
 # Basic Addressable LED Strip Example
----
-## DESCRIPTION
 
 ---
 ## HARDWARE
