@@ -38,3 +38,6 @@ See the guide below to learn how to safely calculate and choose the correct powe
 
 -----
 ## WIRING
+
+*Click on the image to expand diagram
+
