@@ -41,3 +41,5 @@ See the guide below to learn how to safely calculate and choose the correct powe
 
 *Click on the image to expand diagram
 
+-----
+## CODE and INSTRUCTIONS
