@@ -10,3 +10,8 @@ Read more about LED Rings by Adafruit [here](https://learn.adafruit.com/adafruit
 
 ----
 ## CODE and INSTRUCTIONS
+
+----
+## MORE TUTORIALS
+
+[Ring lamp](https://learn.adafruit.com/neopixel-ring-lamp/overview)
