@@ -25,7 +25,7 @@ A practical guide to LED types and how to power them safely
 ----
 # LED Rings
 
-[24 RGB LED Ring]
+[24 RGB LED Ring](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/24Ring.md)
 
 ----
 # COB
