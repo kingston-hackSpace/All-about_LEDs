@@ -25,7 +25,7 @@ A practical guide to LED types and how to power them safely
 ----
 # LED Rings
 
-Content pending
+[24 RGB LED Ring]
 
 ----
 # COB
