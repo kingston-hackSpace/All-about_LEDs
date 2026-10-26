@@ -51,7 +51,7 @@ Detailed Adafruit NeoPixel Uberguide
 
 - **WARNING** NeoPixels can be easily damaged if proper precautions are not taken when using them. We suggest adding a capacitor of at least **10 μF** between the ground and power lines and a **100Ω to 1000Ω resistor** between your microcontroller and the signal input pin.
 
-<img src="24_ring_bb.jpg" width="800">
+<img src="24_RGB-ring_bb.jpg" width="800">
 * Click on image to expand
 
 ----
