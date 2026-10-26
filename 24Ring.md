@@ -55,6 +55,21 @@ Detailed Adafruit NeoPixel Uberguide
 * Click on image to expand
 
 ----
+## INSTALLING LIBRARIES
+
+Install the ** Adafruit NeoPixel by Adafruit** by following these steps:
+
+1. At the left side of your Arduino IDE, click on the library icon (looks like a group of books)
+
+2. A new panel will open, this is your Library Manager. At the top there is a search box: type **""Adafruit NeoPixel**
+
+3. Install the option "**Adafruit NeoPixel by Adafruit"**
+
+4. Once installed, you can close your Library Manager by clicking on the "books" icon again.
+
+5. Done! You dont need to repeat this intallation process again.
+
+----
 ## CODE and INSTRUCTIONS
 
 ----
