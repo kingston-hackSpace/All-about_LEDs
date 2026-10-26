@@ -74,9 +74,9 @@ Install the ** Adafruit NeoPixel by Adafruit** by following these steps:
 
 Upload the following codes to your Arduino board to explore different lighting patterns:
 
-[SIMPLE EXAMPLE](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/24ring_simple.ino)
+- [SIMPLE EXAMPLE](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/24ring_simple.ino)
 
-
+- [LIGHTING PATTERS](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/24ring_lightEffects_nonblocking.ino)
 
 ----
 ## MORE TUTORIALS
