@@ -2,12 +2,16 @@
 
 A non-addressable strip has only two connections, + and -. All the LEDs light up together, with the same colour and brightness.
 
+<img src="positive_negative.webp" width="600">
+
 **Warning!** You will need to pay special attention when powering them, see below.
+
+This tutorial is suitable for COB and traditional LED strip. 
+
+<img src="white_strip_COB.jpg" width="300"><img src="white_strip_traditional.webp" width="300">
 
 ---
 ### COB
-
-This tutorial is suitable for COB and traditional LED strip. 
 
 Unlike traditional LED strips, COB technology embeds multiple tiny LEDs close together, forming a continuous line of light (no visible dots)​
 
