@@ -30,3 +30,9 @@ KIT - 39 LEDS per strips
 
 ---
 ### Programming a monochrome non-addressable LED STRIP
+
+
+---
+### About light temperature
+
+
