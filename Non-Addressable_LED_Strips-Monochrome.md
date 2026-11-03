@@ -2,7 +2,7 @@
 
 A non-addressable strip has only two connections, + and -. All the LEDs light up together, with the same colour and brightness.
 
-<img src="positive_negative.webp" width="600">
+<img src="positive_negative.webp" width="800">
 
 This tutorial is suitable for COB and traditional LED strips: 
 
@@ -11,9 +11,11 @@ This tutorial is suitable for COB and traditional LED strips:
 ---
 ### COB
 
-Unlike traditional LED strips, COB technology embeds multiple tiny LEDs close together, forming a continuous line of light (no visible dots)​
+Unlike traditional LED strips, COB technology embeds multiple tiny LEDs close together, forming a continuous line of light (no visible dots).​
 
-​Usually high-density, bright, and flexible
+​Usually high-density, bright, and flexible.
+
+They could be more expensive than traditional LED strips.
 
 ---
 ### hackSpace kits available:
