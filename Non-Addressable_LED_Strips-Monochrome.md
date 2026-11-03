@@ -1,11 +1,13 @@
 # Non-Addressable LED Strips - Monochrome
 
-This tutorial is suitable for COB and traditional LED strip. 
+A non-addressable strip has only two connections, + and -. All the LEDs light up together, with the same colour and brightness.
 
-**Warning!** You will need to pay special atention to powering them
+**Warning!** You will need to pay special attention when powering them, see below.
 
 ---
 ### COB
+
+This tutorial is suitable for COB and traditional LED strip. 
 
 Unlike traditional LED strips, COB technology embeds multiple tiny LEDs close together, forming a continuous line of light (no visible dots)​
 
@@ -14,21 +16,16 @@ Unlike traditional LED strips, COB technology embeds multiple tiny LEDs close to
 ---
 ### hackSpace kits available:
 
-- Cold White, 12V
+- Cold White, 12V, (39 LEDs), requires 12V 1A Power Supply.
 
-- Warm White, 12V (pending)
+- Warm White, 12V, **(PENDING)**, 
 
-- COB Warm White, 5V
+- COB Warm White, 5V, **(PENDING)**, requires 5V 2A Power Supply.
 
 ---
 ### Cutting LED strips
 
-DONOT cut the LED strips of your hackSpace kits. If you need shorter or larger strips, approach a technician. 
-
----
-### Calculating power
-
-KIT - 39 LEDS per strips
+DO NOT cut the LED strips of your hackSpace kits. If you need shorter or larger strips, approach a technician. 
 
 ---
 ### Powering a monochrome non-addressable LED Strip (NO ARDUINO, NO CODING)
@@ -37,6 +34,24 @@ KIT - 39 LEDS per strips
 
 ---
 ### Programming a monochrome non-addressable LED STRIP
+
+**HARDWARE**
+
+- Arduino UNO
+
+- 12V 1A Power Supply
+
+
+**WHY DO YOU NEED A POWER SUPPLY?**
+
+Even when Arduino pins supply 5V, it can provide only 20mA (current), which is far less than what your strip requires. For this reason you will need an external Power Supply.
+Insufficient current may result in overheating and a fire hazard. 
+
+** **
+
+
+**CODE and INSTRUCTIONS**
+
 
 
 ---
