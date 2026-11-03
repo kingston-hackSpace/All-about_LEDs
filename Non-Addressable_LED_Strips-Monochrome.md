@@ -1,17 +1,24 @@
 # Non-Addressable LED Strips - Monochrome
 
-This tutorial is suitable for COB LED Strips and (normal dotted led?). The difference relys on the technology of how LEDs are organized internally, and therefore, how they look like: COB strips provide a constant lineal lighting, white the other ones the LED is . 
+This tutorial is suitable for COB and traditional LED strip. 
 
 **Warning!** You will need to pay special atention to powering them
 
 ---
+### COB
+
+Unlike traditional LED strips, COB technology embeds multiple tiny LEDs close together, forming a continuous line of light (no visible dots)​
+
+​Usually high-density, bright, and flexible
+
+---
 ### hackSpace kits available:
 
-- COB Warm White, 5V (pending)
-  
 - Cold White, 12V
 
 - Warm White, 12V (pending)
+
+- COB Warm White, 5V
 
 ---
 ### Cutting LED strips
