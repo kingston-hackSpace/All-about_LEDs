@@ -26,7 +26,7 @@ KIT - 39 LEDS per strips
 ---
 ### Powering a monochrome non-addressable LED Strip (NO ARDUINO, NO CODING)
 
-
+<img src="lightTemperature.png" width="600">
 
 ---
 ### Programming a monochrome non-addressable LED STRIP
