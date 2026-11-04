@@ -55,11 +55,6 @@ Plug your 12V LED strip (from your hackSpace kit) to a 12V 1A power supply. Do n
 ---
 ### Programming a 12V monochrome non-addressable LED STRIP
 
-**HARDWARE**
-
-- Arduino UNO
-
-- 12V 1A Power Supply
 
 
 **WHY DO YOU NEED A POWER SUPPLY?**
@@ -67,11 +62,54 @@ Plug your 12V LED strip (from your hackSpace kit) to a 12V 1A power supply. Do n
 Even when Arduino pins supply 5V, it can provide only 20mA (current), which is far less than what your strip requires. For this reason you will need an external Power Supply.
 Insufficient current may result in overheating and a fire hazard. 
 
-**WIRING**
+---
+## HARDWARE
 
+You will need:
 
-**CODE and INSTRUCTIONS**
+- Power Supply
 
+- Arduino board
+
+- IRLZ44N MOSFET (used to switch high current/voltage from the power supply using a control signal from the Arduino)
+
+- Diode 1N4007 or 1N4001 (protects the circuit from voltage spikes)
+
+- 220ohms resistor (protects the Arduino signal pin)
+
+- 1K resistor (grounds MOSFET's Gate to reduce electrical noise)
+
+- 12V LED strip
+
+---
+## DIAGRAM
+
+⚠️ IMPORTANT: MOSFET pins are not interchangeable. 
+
+Follow [this MOSFET diagram BEFORE WIRING](https://github.com/kingston-hackSpace/12V_devices_with_Arduino/blob/main/IRLZ44N.png)
+
+See [wiring diagram here](https://github.com/kingston-hackSpace/12V_devices_with_Arduino/blob/main/12V_device_bb.png)
+
+---
+### SAFETY NOTE
+
+⚠️ At 5A, the IRLZ44N will get warm. 
+
+For higher currents (up to 10 A), **you must use a heatsink and allow air flow**.
+
+---
+## ABOUT THE IRLZ44N MOSFET
+
+The IRLZ44N MOSFET is the main component that allows us to control a 12 V actuator using a 5 V signal from an Arduino.
+
+The IRLZ44N can be used:
+
+- As an on/off switch
+
+- With PWM signals, for example to control motor speed or LED brightness
+
+---
+## CODE and INSTRUCTIONS
 
 ---
 ### Programming a 5V monochrome non-addressable LED STRIP
