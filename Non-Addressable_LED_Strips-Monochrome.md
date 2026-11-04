@@ -22,9 +22,7 @@ They could be more expensive than traditional LED strips.
 
 *These kits are for learning purposes only*. 
 
-- Cold White, 12V, requires 12V 1A Power Supply.
-
-- Warm White, 12V, **(PENDING)**, 
+- Cold or Warm White, 12V, requires 12V 1A Power Supply.
 
 - COB Warm White, 5V, **(PENDING)**,
 
@@ -36,16 +34,21 @@ DO NOT cut the LED strips of your hackSpace kits. If you need shorter or larger 
 ---
 ### POWERING
 
-If you have a 12V strip, you need a 12V Power Supply.
+- If you have a 12V strip, you need a 12V Power Supply.
 
-If you have a 5V strip, you need a 5V Power Supply.
+- If you have a 5V strip, you need a 5V Power Supply.
 
-WARNING! Current draw may very. Incorrect current could cause overheat and fire. Ask a technician for a safe powering of LED strips. 
+**WHY DO YOU NEED A POWER SUPPLY?**
+
+Even when Arduino pins supply 5V, it can provide only 20mA (current), which is far less than what your strip requires. For this reason you will need an external Power Supply.
+Insufficient current may result in overheating and a fire hazard. 
+
+*WARNING!** Current draw may very. Incorrect current could cause overheat and fire. Ask a technician for a safe powering of LED strips. 
 
 Check [this class](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Class_LEDstrips.pdf) to learn more about powering LED strips. 
 
 ---
-### Powering a 12V monochrome non-addressable LED Strip (NO ARDUINO, NO CODING)
+# Powering a 12V monochrome non-addressable LED Strip (NO ARDUINO, NO CODING)
 
 Plug your 12V LED strip (from your hackSpace kit) to a 12V 1A power supply. Do not use larger strips, they will requiere higher current. 
 
@@ -53,14 +56,7 @@ Plug your 12V LED strip (from your hackSpace kit) to a 12V 1A power supply. Do n
 
 
 ---
-### Programming a 12V monochrome non-addressable LED STRIP
-
-
-
-**WHY DO YOU NEED A POWER SUPPLY?**
-
-Even when Arduino pins supply 5V, it can provide only 20mA (current), which is far less than what your strip requires. For this reason you will need an external Power Supply.
-Insufficient current may result in overheating and a fire hazard. 
+# Programming a 12V monochrome non-addressable LED STRIP
 
 ---
 ## HARDWARE
@@ -111,6 +107,13 @@ The IRLZ44N can be used:
 ---
 ## CODE and INSTRUCTIONS
 
+- After you have wired your circuit, open Arduino IDE
+
+- Navegate: File > Examples > 1.Basics > Blink
+
+- In the code, programme Pin 10 instead of BUILD_IN
+
+- Upload the code to your Arduino Board
 ---
 ### Programming a 5V monochrome non-addressable LED STRIP
 
