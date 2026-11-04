@@ -22,7 +22,7 @@ They could be more expensive than traditional LED strips.
 
 *These kits are for learning purposes only*. 
 
-- Cold White, 12V, (39 LEDs), requires 12V 2A Power Supply.
+- Cold White, 12V, requires 12V 1A Power Supply.
 
 - Warm White, 12V, **(PENDING)**, 
 
