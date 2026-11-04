@@ -11,7 +11,7 @@ This tutorial is suitable for COB and traditional LED strips:
 ---
 ### COB LED strips
 
-Unlike traditional LED strips, COB technology embeds multiple tiny LEDs close together, forming a continuous line of light (no visible dots).​
+Unlike traditional LED strips, COB technology embeds multiple tiny LEDs close together, forming a continuous line of light (no visible dots, see image above).​
 
 ​Usually high-density, bright, and flexible.
 
@@ -34,7 +34,13 @@ DO NOT cut the LED strips of your hackSpace kits. If you need shorter or larger 
 ---
 ### POWERING
 
-Check [this class](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Class_LEDstrips.pdf) to understand more about powering
+If you have a 12V strip, you need a 12V Power Supply.
+
+If you have a 5V strip, you need a 5V Powwer Supply.
+
+WARNING! Current draw may very. Incorrect current could cause overheat and fire. Ask a technician for a safe use of LED strips. 
+
+Check [this class](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Class_LEDstrips.pdf) to learn more about powering LED strips. 
 
 ---
 ### Powering a 12V monochrome non-addressable LED Strip (NO ARDUINO, NO CODING)
