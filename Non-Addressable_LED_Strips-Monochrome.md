@@ -47,9 +47,9 @@ Check [this class](https://github.com/kingston-hackSpace/All-about_LEDs/blob/mai
 ---
 ### Powering a 12V monochrome non-addressable LED Strip (NO ARDUINO, NO CODING)
 
-Plug your 12V LED strip (from your hackSpace kit) to a 12V 2A power supply. Do not use larger strips, they will requiere higher current. 
+Plug your 12V LED strip (from your hackSpace kit) to a 12V 1A power supply. Do not use larger strips, they will requiere higher current. 
 
-<img src="Power_monoStrip.jpg" width="400"> 
+<img src="Powering-white-strip.jpg" width="400"> 
 
 
 ---
@@ -59,7 +59,7 @@ Plug your 12V LED strip (from your hackSpace kit) to a 12V 2A power supply. Do n
 
 - Arduino UNO
 
-- 12V 2A Power Supply
+- 12V 1A Power Supply
 
 
 **WHY DO YOU NEED A POWER SUPPLY?**
@@ -67,7 +67,7 @@ Plug your 12V LED strip (from your hackSpace kit) to a 12V 2A power supply. Do n
 Even when Arduino pins supply 5V, it can provide only 20mA (current), which is far less than what your strip requires. For this reason you will need an external Power Supply.
 Insufficient current may result in overheating and a fire hazard. 
 
-** **
+**WIRING**
 
 
 **CODE and INSTRUCTIONS**
