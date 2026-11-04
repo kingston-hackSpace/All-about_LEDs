@@ -53,7 +53,7 @@ Plug your 12V LED strip (from your hackSpace kit) to a 12V 2A power supply. Do n
 
 
 ---
-### Programming a 5V monochrome non-addressable LED STRIP
+### Programming a 12V monochrome non-addressable LED STRIP
 
 **HARDWARE**
 
@@ -73,6 +73,10 @@ Insufficient current may result in overheating and a fire hazard.
 **CODE and INSTRUCTIONS**
 
 
+---
+### Programming a 5V monochrome non-addressable LED STRIP
+
+CONTENT PENDING
 
 ---
 ### About light temperature
