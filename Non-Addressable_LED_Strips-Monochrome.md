@@ -32,12 +32,12 @@ They could be more expensive than traditional LED strips.
 DO NOT cut the LED strips of your hackSpace kits. If you need shorter or larger strips, approach a technician. 
 
 ---
-### Powering a monochrome non-addressable LED Strip (NO ARDUINO, NO CODING)
+### Powering a 12V monochrome non-addressable LED Strip (NO ARDUINO, NO CODING)
 
 
 
 ---
-### Programming a monochrome non-addressable LED STRIP
+### Programming a 5V monochrome non-addressable LED STRIP
 
 **HARDWARE**
 
