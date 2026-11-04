@@ -13,32 +13,34 @@ This tutorial is suitable for COB and traditional LED strips:
 
 Unlike traditional LED strips, COB technology embeds multiple tiny LEDs close together, forming a continuous line of light (no visible dots, see image above).​
 
-​Usually high-density, bright, and flexible.
+​COB are usually high-density, bright, and flexible.
 
 They could be more expensive than traditional LED strips.
 
 ---
-### hackSpace kits available:
+### LED strip kits available at hackSpace:
+
+*These kits are for learning purposes only*. 
 
 - Cold White, 12V, (39 LEDs), requires 12V 1A Power Supply.
 
 - Warm White, 12V, **(PENDING)**, 
 
-- COB Warm White, 5V, **(PENDING)**, requires 5V 2A Power Supply.
+- COB Warm White, 5V, **(PENDING)**,
 
 ---
 ### Cutting LED strips
 
-DO NOT cut the LED strips of your hackSpace kits. If you need shorter or larger strips, approach a technician. 
+DO NOT cut the LED strips of your hackSpace kits. If you need shorter or larger strips, talk to a technician. 
 
 ---
 ### POWERING
 
 If you have a 12V strip, you need a 12V Power Supply.
 
-If you have a 5V strip, you need a 5V Powwer Supply.
+If you have a 5V strip, you need a 5V Power Supply.
 
-WARNING! Current draw may very. Incorrect current could cause overheat and fire. Ask a technician for a safe use of LED strips. 
+WARNING! Current draw may very. Incorrect current could cause overheat and fire. Ask a technician for a safe powering of LED strips. 
 
 Check [this class](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Class_LEDstrips.pdf) to learn more about powering LED strips. 
 
