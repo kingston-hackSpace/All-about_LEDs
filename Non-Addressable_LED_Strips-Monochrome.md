@@ -47,13 +47,7 @@ Check [this class](https://github.com/kingston-hackSpace/All-about_LEDs/blob/mai
 ---
 ### Powering a 12V monochrome non-addressable LED Strip (NO ARDUINO, NO CODING)
 
-Plug the strip from your hackSpace kit to a 12V 1A power supply. Do not use larger strips, they will requiere higher current. 
-
-Suitable for kits:
-
-- Cold White, 12V, (39 LEDs), requires 12V 1A Power Supply.
-
-- Warm White, 12V, **(PENDING)**, 
+Plug your 12V LED strip (from your hackSpace kit) to a 12V 1A power supply. Do not use larger strips, they will requiere higher current. 
 
 <img src="Power_monoStrip.jpg" width="400"> 
 
