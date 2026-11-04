@@ -32,6 +32,11 @@ They could be more expensive than traditional LED strips.
 DO NOT cut the LED strips of your hackSpace kits. If you need shorter or larger strips, approach a technician. 
 
 ---
+### POWERING
+
+Check [this class](https://github.com/kingston-hackSpace/All-about_LEDs/blob/main/Class_LEDstrips.pdf) to understand more about powering
+
+---
 ### Powering a 12V monochrome non-addressable LED Strip (NO ARDUINO, NO CODING)
 
 Plug the strip from your hackSpace kit to a 12V 1A power supply. Do not use larger strips, they will requiere higher current. 
